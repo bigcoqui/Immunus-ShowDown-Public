@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Immunus_Showdown_Girlfriend_Portraits.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF_Portrait1 instance 10000" x="0" y="0" width="351" height="265"/>
+	<SubTexture name="GF_Portrait2 instance 10000" x="351" y="0" width="351" height="265"/>
+	<SubTexture name="GF_Portrait3 instance 10000" x="0" y="265" width="351" height="265"/>
+</TextureAtlas>

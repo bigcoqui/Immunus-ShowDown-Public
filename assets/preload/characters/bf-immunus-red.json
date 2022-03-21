@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				-3,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		},
+		{
+			"offsets": [
+				-3,
+				-25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "BF Dead Loop instance 1"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Immunus_Showdown__Meltdown_BF_Idle instance "
+		},
+		{
+			"offsets": [
+				-32,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Immunus_Showdown_Meltdown_BF_UpPoseMiss instance "
+		},
+		{
+			"offsets": [
+				-25,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Immunus_Showdown_Meltdown_BF_UpPose instance "
+		},
+		{
+			"offsets": [
+				-66,
+				13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Immunus_Showdown_Meltdown_BF_RightPose instance "
+		},
+		{
+			"offsets": [
+				-64,
+				39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Immunus_Showdown_Meltdown_BF_MissRightPose instance "
+		},
+		{
+			"offsets": [
+				-26,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Immunus_Showdown_Meltdown_BF_LeftPoseMiss instance "
+		},
+		{
+			"offsets": [
+				-25,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Immunus_Showdown_Meltdown_BF_LeftPose instance "
+		},
+		{
+			"offsets": [
+				-14,
+				-22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Immunus_Showdown_Meltdown_BF_DownPoseMiss instance "
+		},
+		{
+			"offsets": [
+				-15,
+				-18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Immunus_Showdown_Meltdown_BF_DownPose instance "
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Immunus_Showdown_Meltdown_Shaded_BOYFRIEND",
+	"position": [
+		0,
+		310
+	],
+	"healthicon": "bf2",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-100,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

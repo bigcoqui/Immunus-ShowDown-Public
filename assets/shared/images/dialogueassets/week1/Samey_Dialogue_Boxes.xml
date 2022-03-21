@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Samey_Dialogue_Boxes.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Alerted_Box_1.png0000" x="0" y="0" width="579" height="64"/>
+	<SubTexture name="Alerted_Box_1.png0001" x="579" y="0" width="546" height="78"/>
+	<SubTexture name="Alerted_Box_1.png0002" x="1125" y="0" width="532" height="161"/>
+	<SubTexture name="Alerted_Box_1.png0003" x="0" y="161" width="538" height="167"/>
+	<SubTexture name="Meltdown_Box_1.png" x="538" y="161" width="579" height="64"/>
+	<SubTexture name="Meltdown_Box_2.png" x="1117" y="161" width="546" height="78"/>
+	<SubTexture name="Meltdown_Box_3.png" x="0" y="328" width="532" height="161"/>
+	<SubTexture name="Meltdown_Box_4.png" x="532" y="328" width="538" height="167"/>
+	<SubTexture name="SighLenced_Box_1.png0000" x="1070" y="328" width="579" height="64"/>
+	<SubTexture name="SighLenced_Box_1.png0001" x="0" y="495" width="546" height="78"/>
+	<SubTexture name="SighLenced_Box_1.png0002" x="546" y="495" width="532" height="161"/>
+	<SubTexture name="SighLenced_Box_1.png0003" x="1078" y="495" width="538" height="167"/>
+</TextureAtlas>

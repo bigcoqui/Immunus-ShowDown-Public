@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Immunus_Showdown_Raymond_Hand.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Raymond Hand0000" x="0" y="0" width="567" height="862" frameX="-350" frameY="-47" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0001" x="567" y="0" width="549" height="866" frameX="-349" frameY="-39" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0002" x="567" y="0" width="549" height="866" frameX="-349" frameY="-39" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0003" x="1116" y="0" width="724" height="906" frameX="0" frameY="-39" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0004" x="1116" y="0" width="724" height="906" frameX="0" frameY="-39" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0005" x="1840" y="0" width="548" height="837" frameX="-5" frameY="-107" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0006" x="1840" y="0" width="548" height="837" frameX="-5" frameY="-107" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0007" x="1840" y="0" width="548" height="837" frameX="-5" frameY="-107" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0008" x="2388" y="0" width="545" height="840" frameX="-9" frameY="-104" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0009" x="2388" y="0" width="545" height="840" frameX="-9" frameY="-104" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0010" x="2933" y="0" width="385" height="883" frameX="-281" frameY="-18" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0011" x="2933" y="0" width="385" height="883" frameX="-281" frameY="-18" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0012" x="3318" y="0" width="367" height="880" frameX="-332" frameY="-7" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0013" x="3318" y="0" width="367" height="880" frameX="-332" frameY="-7" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0014" x="3685" y="0" width="373" height="879" frameX="-331" frameY="-9" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0015" x="3685" y="0" width="373" height="879" frameX="-331" frameY="-9" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0016" x="0" y="906" width="378" height="882" frameX="-315" frameY="-10" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0017" x="0" y="906" width="378" height="882" frameX="-315" frameY="-10" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0018" x="378" y="906" width="358" height="903" frameX="-203" frameY="-9" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0019" x="378" y="906" width="358" height="903" frameX="-203" frameY="-9" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0020" x="736" y="906" width="363" height="911" frameX="-198" frameY="-2" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0021" x="736" y="906" width="363" height="911" frameX="-198" frameY="-2" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0022" x="1099" y="906" width="365" height="912" frameX="-195" frameY="-2" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0023" x="1099" y="906" width="365" height="912" frameX="-195" frameY="-2" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0024" x="1464" y="906" width="365" height="912" frameX="-195" frameY="-2" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0025" x="1464" y="906" width="365" height="912" frameX="-195" frameY="-2" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0026" x="1464" y="906" width="365" height="912" frameX="-195" frameY="-2" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0027" x="1464" y="906" width="365" height="912" frameX="-195" frameY="-2" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0028" x="1464" y="906" width="365" height="912" frameX="-195" frameY="-2" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0029" x="1829" y="906" width="379" height="900" frameX="-188" frameY="-8" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0030" x="1829" y="906" width="379" height="900" frameX="-188" frameY="-8" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0031" x="2208" y="906" width="357" height="916" frameX="-199" frameY="0" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0032" x="2208" y="906" width="357" height="916" frameX="-199" frameY="0" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0033" x="1464" y="906" width="365" height="912" frameX="-195" frameY="-2" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0034" x="1464" y="906" width="365" height="912" frameX="-195" frameY="-2" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0035" x="2565" y="906" width="361" height="911" frameX="-200" frameY="-2" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0036" x="2565" y="906" width="361" height="911" frameX="-200" frameY="-2" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0037" x="2926" y="906" width="361" height="745" frameX="-205" frameY="-163" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0038" x="1099" y="906" width="365" height="912" frameX="-195" frameY="-2" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0039" x="2565" y="906" width="361" height="911" frameX="-200" frameY="-2" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0040" x="2565" y="906" width="361" height="911" frameX="-200" frameY="-2" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0041" x="2926" y="906" width="361" height="745" frameX="-205" frameY="-163" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0042" x="2926" y="906" width="361" height="745" frameX="-205" frameY="-163" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0043" x="3287" y="906" width="345" height="750" frameX="-213" frameY="-160" frameWidth="917" frameHeight="945"/>
+	<SubTexture name="Raymond Hand0044" x="3287" y="906" width="345" height="750" frameX="-213" frameY="-160" frameWidth="917" frameHeight="945"/>
+</TextureAtlas>

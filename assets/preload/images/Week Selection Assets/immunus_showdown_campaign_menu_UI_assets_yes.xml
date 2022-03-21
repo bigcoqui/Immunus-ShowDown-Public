@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="immunus_showdown_campaign_menu_UI_assets_yes.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Arrow_1_anim instance 10000" x="0" y="0" width="87" height="79" frameX="0" frameY="-8" frameWidth="87" frameHeight="87"/>
+	<SubTexture name="Arrow_1_anim instance 10001" x="0" y="0" width="87" height="79" frameX="0" frameY="-8" frameWidth="87" frameHeight="87"/>
+	<SubTexture name="Arrow_1_anim instance 10002" x="87" y="0" width="72" height="87" frameX="-7" frameY="0" frameWidth="87" frameHeight="87"/>
+	<SubTexture name="Arrow_1_anim instance 10003" x="87" y="0" width="72" height="87" frameX="-7" frameY="0" frameWidth="87" frameHeight="87"/>
+	<SubTexture name="Arrow_1_anim instance 10004" x="159" y="0" width="76" height="84" frameX="-5" frameY="-3" frameWidth="87" frameHeight="87"/>
+	<SubTexture name="Arrow_1_anim instance 10005" x="159" y="0" width="76" height="84" frameX="-5" frameY="-3" frameWidth="87" frameHeight="87"/>
+	<SubTexture name="Arrow_1_anim instance 10006" x="235" y="0" width="74" height="86" frameX="-6" frameY="-1" frameWidth="87" frameHeight="87"/>
+	<SubTexture name="Arrow_1_anim instance 10007" x="235" y="0" width="74" height="86" frameX="-6" frameY="-1" frameWidth="87" frameHeight="87"/>
+	<SubTexture name="Arrow_1_anim instance 10008" x="235" y="0" width="74" height="86" frameX="-6" frameY="-1" frameWidth="87" frameHeight="87"/>
+	<SubTexture name="Arrow_1_anim instance 10009" x="235" y="0" width="74" height="86" frameX="-6" frameY="-1" frameWidth="87" frameHeight="87"/>
+	<SubTexture name="Arrow_1_anim instance 10010" x="235" y="0" width="74" height="86" frameX="-6" frameY="-1" frameWidth="87" frameHeight="87"/>
+	<SubTexture name="Arrow_1_anim instance 10011" x="235" y="0" width="74" height="86" frameX="-6" frameY="-1" frameWidth="87" frameHeight="87"/>
+	<SubTexture name="Arrow_1_anim instance 10012" x="235" y="0" width="74" height="86" frameX="-6" frameY="-1" frameWidth="87" frameHeight="87"/>
+	<SubTexture name="Arrow_1_anim instance 10013" x="235" y="0" width="74" height="86" frameX="-6" frameY="-1" frameWidth="87" frameHeight="87"/>
+	<SubTexture name="Arrow_2_Anim instance 10000" x="309" y="0" width="90" height="114" frameX="-28" frameY="0" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10001" x="309" y="0" width="90" height="114" frameX="-28" frameY="0" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10002" x="399" y="0" width="79" height="107" frameX="-26" frameY="-6" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10003" x="399" y="0" width="79" height="107" frameX="-26" frameY="-6" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10004" x="478" y="0" width="74" height="104" frameX="-30" frameY="-7" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10005" x="478" y="0" width="74" height="104" frameX="-30" frameY="-7" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10006" x="552" y="0" width="74" height="104" frameX="-30" frameY="-7" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10007" x="552" y="0" width="74" height="104" frameX="-30" frameY="-7" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10008" x="478" y="0" width="74" height="104" frameX="-30" frameY="-7" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10009" x="478" y="0" width="74" height="104" frameX="-30" frameY="-7" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10010" x="552" y="0" width="74" height="104" frameX="-30" frameY="-7" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10011" x="552" y="0" width="74" height="104" frameX="-30" frameY="-7" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10012" x="478" y="0" width="74" height="104" frameX="-30" frameY="-7" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10013" x="478" y="0" width="74" height="104" frameX="-30" frameY="-7" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10014" x="552" y="0" width="74" height="104" frameX="-30" frameY="-7" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10015" x="626" y="0" width="93" height="105" frameX="-11" frameY="-6" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10016" x="626" y="0" width="93" height="105" frameX="-11" frameY="-6" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10017" x="719" y="0" width="104" height="80" frameX="0" frameY="-31" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10018" x="823" y="0" width="54" height="64" frameX="-46" frameY="-39" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10019" x="823" y="0" width="54" height="64" frameX="-46" frameY="-39" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10020" x="877" y="0" width="28" height="54" frameX="-49" frameY="-39" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10021" x="877" y="0" width="28" height="54" frameX="-49" frameY="-39" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10022" x="905" y="0" width="16" height="76" frameX="-57" frameY="-44" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10023" x="921" y="0" width="8" height="38" frameX="-61" frameY="-84" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10024" x="929" y="0" width="4" height="18" frameX="-63" frameY="-108" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Arrow_2_Anim instance 10025" x="933" y="0" width="0" height="0" frameX="808" frameY="314" frameWidth="118" frameHeight="126"/>
+	<SubTexture name="Chapter_1 instance 10000" x="0" y="114" width="355" height="94"/>
+	<SubTexture name="Chapter_1_Selected instance 10000" x="355" y="114" width="355" height="95"/>
+	<SubTexture name="Chapter_2 instance 10000" x="0" y="209" width="355" height="95"/>
+	<SubTexture name="Chapter_2_Selected instance 10000" x="355" y="209" width="355" height="94"/>
+	<SubTexture name="Chapter_3 instance 10000" x="0" y="304" width="355" height="95"/>
+	<SubTexture name="Chapter_3_Selected instance 10000" x="355" y="304" width="355" height="95"/>
+	<SubTexture name="Chapter_4 instance 10000" x="0" y="399" width="355" height="95"/>
+	<SubTexture name="Chapter_4_Selected instance 10000" x="355" y="399" width="355" height="94"/>
+	<SubTexture name="Chapter_Intro instance 10000" x="710" y="399" width="214" height="94"/>
+	<SubTexture name="Chapter_Intro_Selected instance 10000" x="0" y="494" width="214" height="95"/>
+	<SubTexture name="Chapter_Tutorial instance 10000" x="214" y="494" width="361" height="95"/>
+	<SubTexture name="Chapter_Tutorial_Selected instance 10000" x="575" y="494" width="361" height="94"/>
+	<SubTexture name="Hard_Fury instance 10000" x="0" y="589" width="159" height="136"/>
+	<SubTexture name="Lock instance 10000" x="159" y="589" width="67" height="68"/>
+	<SubTexture name="Medley_Hollow instance 10000" x="226" y="589" width="211" height="134"/>
+	<SubTexture name="Normal_Sorrow instance 10000" x="437" y="589" width="204" height="139"/>
+	<SubTexture name="Select_Arrow_Clicked_Left instance 10000" x="641" y="589" width="29" height="51"/>
+	<SubTexture name="Select_Arrow_Clicked_Right instance 10000" x="670" y="589" width="29" height="51"/>
+	<SubTexture name="Select_Arrow_Left instance 10000" x="699" y="589" width="36" height="60"/>
+	<SubTexture name="Select_Arrow_Right instance 10000" x="735" y="589" width="36" height="60"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FG_DownPose instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FG_Idle instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				21
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FG_LeftPose instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FG_RightPose instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				28
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FG_UpPose instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Samey_Fatigue_Assets",
+	"position": [
+		-30,
+		230
+	],
+	"healthicon": "samey4",
+	"flip_x": false,
+	"healthbar_colors": [
+		69,
+		202,
+		218
+	],
+	"camera_position": [
+		-10,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Immunus_Showdown_OG_Logo_Touch.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Logo_Touch0000" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0001" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0002" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0003" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0004" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0005" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0006" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0007" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0008" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0009" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0010" x="755" y="0" width="745" height="527" frameX="-116" frameY="-63" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0011" x="1500" y="0" width="784" height="553" frameX="-96" frameY="-50" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0012" x="1500" y="0" width="784" height="553" frameX="-96" frameY="-50" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0013" x="2284" y="0" width="761" height="537" frameX="-108" frameY="-58" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0014" x="2284" y="0" width="761" height="537" frameX="-108" frameY="-58" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0015" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0016" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0017" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0018" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0019" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0020" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0021" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0022" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0023" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0024" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0025" x="755" y="0" width="745" height="527" frameX="-116" frameY="-63" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0026" x="1500" y="0" width="784" height="553" frameX="-96" frameY="-50" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0027" x="1500" y="0" width="784" height="553" frameX="-96" frameY="-50" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0028" x="2284" y="0" width="761" height="537" frameX="-108" frameY="-58" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0029" x="2284" y="0" width="761" height="537" frameX="-108" frameY="-58" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0030" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0031" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0032" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0033" x="0" y="0" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0034" x="3045" y="0" width="980" height="656"/>
+	<SubTexture name="Logo_Touch0035" x="0" y="656" width="852" height="586" frameX="-64" frameY="-35" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0036" x="852" y="656" width="774" height="544" frameX="-103" frameY="-56" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0037" x="1626" y="656" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0038" x="3045" y="0" width="980" height="656"/>
+	<SubTexture name="Logo_Touch0039" x="0" y="656" width="852" height="586" frameX="-64" frameY="-35" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0040" x="852" y="656" width="774" height="544" frameX="-103" frameY="-56" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0041" x="1626" y="656" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+	<SubTexture name="Logo_Touch0042" x="1626" y="656" width="755" height="533" frameX="-111" frameY="-60" frameWidth="980" frameHeight="656"/>
+</TextureAtlas>

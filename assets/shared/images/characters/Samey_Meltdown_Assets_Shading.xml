@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Alerted_Assets_Shading.png">
+	<!-- Created by OneilR the XML WIZARD <3 -->
+	<!-- Created by OneilR the XML WIZARD <3 -->
+
+	<SubTexture name="MD_Remastered_LeftPose0000" x="0" y="0" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_LeftPose0001" x="730" y="0" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_LeftPose0002" x="1460" y="0" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_LeftPose0003" x="2190" y="0" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_LeftPose0004" x="2920" y="0" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_LeftPose0005" x="3650" y="0" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_LeftPose0006" x="4380" y="0" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_LeftPose0007" x="5110" y="0" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_LeftPose0008" x="5840" y="0" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_LeftPose0009" x="6570" y="0" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_LeftPose0010" x="7300" y="0" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_LeftPose0011" x="8030" y="0" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_LeftPose0012" x="8760" y="0" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_LeftPose0013" x="9490" y="0" width="730" height="908"/>
+	<!-- a border -->	<!-- a border -->	<!-- a border -->
+	<SubTexture name="MD_Remastered_UpPose0000" x="0" y="908" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_UpPose0001" x="730" y="908" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_UpPose0002" x="1460" y="908" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_UpPose0003" x="2190" y="908" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_UpPose0004" x="2920" y="908" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_UpPose0005" x="3650" y="908" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_UpPose0006" x="4380" y="908" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_UpPose0007" x="5110" y="908" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_UpPose0008" x="5840" y="908" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_UpPose0009" x="6570" y="908" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_UpPose0010" x="7300" y="908" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_UpPose0011" x="8030" y="908" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_UpPose0012" x="8760" y="908" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_UpPose0013" x="9490" y="908" width="730" height="908"/>
+	<!-- a border -->	<!-- a border -->	<!-- a border -->
+	<SubTexture name="MD_Remastered_DownPose0000" x="0" y="1816" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_DownPose0001" x="730" y="1816" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_DownPose0002" x="1460" y="1816" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_DownPose0003" x="2190" y="1816" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_DownPose0004" x="2920" y="1816" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_DownPose0005" x="3650" y="1816" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_DownPose0006" x="4380" y="1816" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_DownPose0007" x="5110" y="1816" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_DownPose0008" x="5840" y="1816" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_DownPose0009" x="6570" y="1816" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_DownPose0010" x="7300" y="1816" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_DownPose0011" x="8030" y="1816" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_DownPose0012" x="8760" y="1816" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_DownPose0013" x="9490" y="1816" width="730" height="908"/>
+	<!-- a border -->	<!-- a border -->	<!-- a border -->
+	<SubTexture name="MD_Remastered_RightPose0000" x="0" y="2724" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_RightPose0001" x="730" y="2724" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_RightPose0002" x="1460" y="2724" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_RightPose0003" x="2190" y="2724" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_RightPose0004" x="2920" y="2724" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_RightPose0005" x="3650" y="2724" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_RightPose0006" x="4380" y="2724" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_RightPose0007" x="5110" y="2724" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_RightPose0008" x="5840" y="2724" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_RightPose0009" x="6570" y="2724" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_RightPose0010" x="7300" y="2724" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_RightPose0011" x="8030" y="2724" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_RightPose0012" x="8760" y="2724" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_RightPose0013" x="9490" y="2724" width="730" height="908"/>
+	<!-- a border -->	<!-- a border -->	<!-- a border -->
+
+	<!-- a border -->	<!-- a border -->	<!-- a border -->
+	<SubTexture name="MD_Remastered_Idle0000" x="0" y="3632" width="730" height="908"/>	<!-- jesus christ this idle  -->
+	<SubTexture name="MD_Remastered_Idle0001" x="730" y="3632" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0002" x="1460" y="3632" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0003" x="2190" y="3632" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0004" x="2920" y="3632" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0005" x="3650" y="3632" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0006" x="4380" y="3632" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0007" x="5110" y="3632" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0008" x="5840" y="3632" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0009" x="6570" y="3632" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0010" x="7300" y="3632" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0011" x="8030" y="3632" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0012" x="8760" y="3632" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0013" x="9490" y="3632" width="730" height="908"/>
+
+	<SubTexture name="MD_Remastered_Idle0014" x="0" y="4540" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0015" x="730" y="4540" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0016" x="1460" y="4540" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0017" x="2190" y="4540" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0018" x="2920" y="4540" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0019" x="3650" y="4540" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0020" x="4380" y="4540" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0021" x="5110" y="4540" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0022" x="5840" y="4540" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0023" x="6570" y="4540" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0024" x="7300" y="4540" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0025" x="8030" y="4540" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0026" x="8760" y="4540" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0027" x="9490" y="4540" width="730" height="908"/>
+
+	<SubTexture name="MD_Remastered_Idle0028" x="0" y="5448" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0029" x="730" y="5448" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0030" x="1460" y="5448" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0031" x="2190" y="5448" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0032" x="2920" y="5448" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0033" x="3650" y="5448" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0034" x="4380" y="5448" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0035" x="5110" y="5448" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0036" x="5840" y="5448" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0037" x="6570" y="5448" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0038" x="7300" y="5448" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0039" x="8030" y="5448" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0040" x="8760" y="5448" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0041" x="9490" y="5448" width="730" height="908"/>
+
+	<SubTexture name="MD_Remastered_Idle0042" x="0" y="6356" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0043" x="730" y="6356" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0044" x="1460" y="6356" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0045" x="2190" y="6356" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0046" x="2920" y="6356" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0047" x="3650" y="6356" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0048" x="4380" y="6356" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0049" x="5110" y="6356" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0050" x="5840" y="6356" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0051" x="6570" y="6356" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0052" x="7300" y="6356" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0053" x="8030" y="6356" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0054" x="8760" y="6356" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0055" x="9490" y="6356" width="730" height="908"/>
+
+	<SubTexture name="MD_Remastered_Idle0056" x="0" y="7264" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0057" x="730" y="7264" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0058" x="1460" y="7264" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0059" x="2190" y="7264" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0060" x="2920" y="7264" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0061" x="3650" y="7264" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0062" x="4380" y="7264" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0063" x="5110" y="7264" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0064" x="5840" y="7264" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0065" x="6570" y="7264" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0066" x="7300" y="7264" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0067" x="8030" y="7264" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0068" x="8760" y="7264" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0069" x="9490" y="7264" width="730" height="908"/>	<!-- nice  -->
+
+	<SubTexture name="MD_Remastered_Idle0070" x="0" y="8172" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0071" x="730" y="8172" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0072" x="1460" y="8172" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0073" x="2190" y="8172" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0074" x="2920" y="8172" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0075" x="3650" y="8172" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0076" x="4380" y="8172" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0077" x="5110" y="8172" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0078" x="5840" y="8172" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0079" x="6570" y="8172" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0080" x="7300" y="8172" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0081" x="8030" y="8172" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0082" x="8760" y="8172" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0083" x="9490" y="8172" width="730" height="908"/>
+
+	<SubTexture name="MD_Remastered_Idle0084" x="0" y="9080" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0085" x="730" y="9080" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0086" x="1460" y="9080" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0087" x="2190" y="9080" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0088" x="2920" y="9080" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0089" x="3650" y="9080" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0090" x="4380" y="9080" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0091" x="5110" y="9080" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0092" x="5840" y="9080" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0093" x="6570" y="9080" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0094" x="7300" y="9080" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0095" x="8030" y="9080" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0096" x="8760" y="9080" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0097" x="9490" y="9080" width="730" height="908"/>
+
+	<SubTexture name="MD_Remastered_Idle0098" x="0" y="9988" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0099" x="730" y="9988" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0100" x="1460" y="9988" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0101" x="2190" y="9988" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0102" x="2920" y="9988" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0103" x="3650" y="9988" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0104" x="4380" y="9988" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0105" x="5110" y="9988" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0106" x="5840" y="9988" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0107" x="6570" y="9988" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0118" x="7300" y="9988" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0119" x="8030" y="9988" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0110" x="8760" y="9988" width="730" height="908"/>
+	<SubTexture name="MD_Remastered_Idle0111" x="9490" y="9988" width="730" height="908"/>
+
+	<!-- a border -->	<!-- a border -->	<!-- a border -->
+</TextureAtlas>

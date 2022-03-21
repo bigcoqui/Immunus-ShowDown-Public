@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "lot",
+		"player1": "bf-immunus2",
+		"player2": "samey2-shading",
+		"player3": null,
+		"events": [
+			[
+				58089.1719745223,
+				[
+					[
+						"Epik Zoom",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"samey-event"
+					]
+				]
+			],
+			[
+				61146.4968152866,
+				[
+					[
+						"Epik Zoom",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"samey3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-immunus",
+		"bpm": 157,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "alerted"
+	}
+}

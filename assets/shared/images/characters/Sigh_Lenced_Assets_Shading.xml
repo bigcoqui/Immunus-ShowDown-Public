@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sigh_Lenced_Assets_Shading.png">
+	<!-- Created by OneilR the XML WIZARD <3 -->
+	<!-- Created by OneilR the XML WIZARD <3 -->
+	<SubTexture name="SL_Remastered_Idle0000" x="0" y="0" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_Idle0001" x="800" y="0" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_Idle0002" x="1600" y="0" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_Idle0003" x="2400" y="0" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_Idle0004" x="3200" y="0" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_Idle0005" x="4000" y="0" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_Idle0006" x="4800" y="0" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_Idle0007" x="5600" y="0" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_Idle0008" x="6400" y="0" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_Idle0009" x="7200" y="0" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_Idle0010" x="8000" y="0" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_Idle0011" x="8800" y="0" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_Idle0012" x="9600" y="0" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_Idle0013" x="10400" y="0" width="800" height="800"/>
+	<!-- a border -->	<!-- a border -->	<!-- a border -->
+	<SubTexture name="SL_Remastered_LeftPose0000" x="0" y="800" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_LeftPose0001" x="800" y="800" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_LeftPose0002" x="1600" y="800" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_LeftPose0003" x="2400" y="800" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_LeftPose0004" x="3200" y="800" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_LeftPose0005" x="4000" y="800" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_LeftPose0006" x="4800" y="800" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_LeftPose0007" x="5600" y="800" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_LeftPose0008" x="6400" y="800" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_LeftPose0009" x="7200" y="800" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_LeftPose0010" x="8000" y="800" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_LeftPose0011" x="8800" y="800" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_LeftPose0012" x="9600" y="800" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_LeftPose0013" x="10400" y="800" width="800" height="800"/>
+	<!-- a border -->	<!-- a border -->	<!-- a border -->
+	<SubTexture name="SL_Remastered_UpPose0000" x="0" y="1600" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_UpPose0001" x="800" y="1600" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_UpPose0002" x="1600" y="1600" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_UpPose0003" x="2400" y="1600" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_UpPose0004" x="3200" y="1600" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_UpPose0005" x="4000" y="1600" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_UpPose0006" x="4800" y="1600" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_UpPose0007" x="5600" y="1600" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_UpPose0008" x="6400" y="1600" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_UpPose0009" x="7200" y="1600" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_UpPose0010" x="8000" y="1600" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_UpPose0011" x="8800" y="1600" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_UpPose0012" x="9600" y="1600" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_UpPose0013" x="10400" y="1600" width="800" height="800"/>
+	<!-- a border -->	<!-- a border -->	<!-- a border -->
+	<SubTexture name="SL_Remastered_DownPose0000" x="0" y="2400" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_DownPose0001" x="800" y="2400" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_DownPose0002" x="1600" y="2400" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_DownPose0003" x="2400" y="2400" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_DownPose0004" x="3200" y="2400" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_DownPose0005" x="4000" y="2400" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_DownPose0006" x="4800" y="2400" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_DownPose0007" x="5600" y="2400" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_DownPose0008" x="6400" y="2400" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_DownPose0009" x="7200" y="2400" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_DownPose0010" x="8000" y="2400" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_DownPose0011" x="8800" y="2400" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_DownPose0012" x="9600" y="2400" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_DownPose0013" x="10400" y="2400" width="800" height="800"/>
+	<!-- a border -->	<!-- a border -->	<!-- a border -->
+	<SubTexture name="SL_Remastered_RightPose0000" x="0" y="3200" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_RightPose0001" x="800" y="3200" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_RightPose0002" x="1600" y="3200" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_RightPose0003" x="2400" y="3200" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_RightPose0004" x="3200" y="3200" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_RightPose0005" x="4000" y="3200" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_RightPose0006" x="4800" y="3200" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_RightPose0007" x="5600" y="3200" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_RightPose0008" x="6400" y="3200" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_RightPose0009" x="7200" y="3200" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_RightPose0010" x="8000" y="3200" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_RightPose0011" x="8800" y="3200" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_RightPose0012" x="9600" y="3200" width="800" height="800"/>
+	<SubTexture name="SL_Remastered_RightPose0013" x="10400" y="3200" width="800" height="800"/>
+
+</TextureAtlas>

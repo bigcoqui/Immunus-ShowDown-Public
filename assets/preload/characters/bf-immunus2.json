@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-19
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				4,
+				-30
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				36
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Immunus_Showdown_BF_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Immunus_Showdown_BF_LeftPose0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-3
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Immunus_Showdown_BF_HEY!",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Immunus_Showdown_BF_DownPose0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Immunus_Showdown_BF_UpPose0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				57
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Immunus_Showdown_BF_UpPoseMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				42
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Immunus_Showdown_BF_RightPoseMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				19
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Immunus_Showdown_BF_LeftPoseMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Immunus_Showdown_BF_RightPose0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Immunus_Showdown_BF_DownPoseMiss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BOYFRIEND_dark",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Start_screen_Immunus_Showdown_Samey.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Samey0000" x="0" y="0" width="423" height="531" frameX="0" frameY="-7" frameWidth="423" frameHeight="538"/>
+	<SubTexture name="Samey0001" x="0" y="0" width="423" height="531" frameX="0" frameY="-7" frameWidth="423" frameHeight="538"/>
+	<SubTexture name="Samey0002" x="423" y="0" width="417" height="534" frameX="-3" frameY="-4" frameWidth="423" frameHeight="538"/>
+	<SubTexture name="Samey0003" x="423" y="0" width="417" height="534" frameX="-3" frameY="-4" frameWidth="423" frameHeight="538"/>
+	<SubTexture name="Samey0004" x="840" y="0" width="410" height="538" frameX="-7" frameY="0" frameWidth="423" frameHeight="538"/>
+	<SubTexture name="Samey0005" x="840" y="0" width="410" height="538" frameX="-7" frameY="0" frameWidth="423" frameHeight="538"/>
+	<SubTexture name="Samey0006" x="1250" y="0" width="391" height="535" frameX="-23" frameY="-3" frameWidth="423" frameHeight="538"/>
+	<SubTexture name="Samey0007" x="1250" y="0" width="391" height="535" frameX="-23" frameY="-3" frameWidth="423" frameHeight="538"/>
+	<SubTexture name="Samey0008" x="1641" y="0" width="386" height="535" frameX="-27" frameY="-3" frameWidth="423" frameHeight="538"/>
+	<SubTexture name="Samey0009" x="1641" y="0" width="386" height="535" frameX="-27" frameY="-3" frameWidth="423" frameHeight="538"/>
+	<SubTexture name="Samey0010" x="0" y="538" width="380" height="535" frameX="-31" frameY="-3" frameWidth="423" frameHeight="538"/>
+	<SubTexture name="Samey0011" x="0" y="538" width="380" height="535" frameX="-31" frameY="-3" frameWidth="423" frameHeight="538"/>
+	<SubTexture name="Samey0012" x="380" y="538" width="378" height="535" frameX="-33" frameY="-3" frameWidth="423" frameHeight="538"/>
+	<SubTexture name="Samey0013" x="380" y="538" width="378" height="535" frameX="-33" frameY="-3" frameWidth="423" frameHeight="538"/>
+	<SubTexture name="Samey0014" x="758" y="538" width="377" height="535" frameX="-33" frameY="-3" frameWidth="423" frameHeight="538"/>
+</TextureAtlas>

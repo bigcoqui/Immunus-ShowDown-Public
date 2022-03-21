@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Start_screen_Immunus_Showdown_Fusoe.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fusoe0000" x="0" y="0" width="419" height="424" frameX="-1" frameY="-4" frameWidth="420" frameHeight="428"/>
+	<SubTexture name="Fusoe0001" x="0" y="0" width="419" height="424" frameX="-1" frameY="-4" frameWidth="420" frameHeight="428"/>
+	<SubTexture name="Fusoe0002" x="419" y="0" width="418" height="425" frameX="0" frameY="-3" frameWidth="420" frameHeight="428"/>
+	<SubTexture name="Fusoe0003" x="419" y="0" width="418" height="425" frameX="0" frameY="-3" frameWidth="420" frameHeight="428"/>
+	<SubTexture name="Fusoe0004" x="837" y="0" width="414" height="426" frameX="-3" frameY="-2" frameWidth="420" frameHeight="428"/>
+	<SubTexture name="Fusoe0005" x="837" y="0" width="414" height="426" frameX="-3" frameY="-2" frameWidth="420" frameHeight="428"/>
+	<SubTexture name="Fusoe0006" x="1251" y="0" width="397" height="427" frameX="-18" frameY="-1" frameWidth="420" frameHeight="428"/>
+	<SubTexture name="Fusoe0007" x="1251" y="0" width="397" height="427" frameX="-18" frameY="-1" frameWidth="420" frameHeight="428"/>
+	<SubTexture name="Fusoe0008" x="1648" y="0" width="393" height="428" frameX="-21" frameY="0" frameWidth="420" frameHeight="428"/>
+	<SubTexture name="Fusoe0009" x="1648" y="0" width="393" height="428" frameX="-21" frameY="0" frameWidth="420" frameHeight="428"/>
+	<SubTexture name="Fusoe0010" x="0" y="428" width="389" height="428" frameX="-24" frameY="0" frameWidth="420" frameHeight="428"/>
+	<SubTexture name="Fusoe0011" x="0" y="428" width="389" height="428" frameX="-24" frameY="0" frameWidth="420" frameHeight="428"/>
+	<SubTexture name="Fusoe0012" x="389" y="428" width="387" height="428" frameX="-25" frameY="0" frameWidth="420" frameHeight="428"/>
+	<SubTexture name="Fusoe0013" x="389" y="428" width="387" height="428" frameX="-25" frameY="0" frameWidth="420" frameHeight="428"/>
+	<SubTexture name="Fusoe0014" x="776" y="428" width="387" height="428" frameX="-25" frameY="0" frameWidth="420" frameHeight="428"/>
+</TextureAtlas>

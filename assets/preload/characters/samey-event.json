@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "AD_Remastered_EventIdle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Samey_Alerted_EventThingy_Shading",
+	"position": [
+		-310,
+		60
+	],
+	"healthicon": "icon-samey2",
+	"flip_x": false,
+	"healthbar_colors": [
+		69,
+		202,
+		218
+	],
+	"camera_position": [
+		80,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

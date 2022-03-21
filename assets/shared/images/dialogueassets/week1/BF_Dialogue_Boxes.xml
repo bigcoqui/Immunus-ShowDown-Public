@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_Dialogue_Boxes.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF_Box_Alerted_10000" x="0" y="0" width="579" height="64"/>
+	<SubTexture name="BF_Box_Alerted_10001" x="579" y="0" width="546" height="78"/>
+	<SubTexture name="BF_Box_Alerted_10002" x="1125" y="0" width="532" height="161"/>
+	<SubTexture name="BF_Box_Meltdown_10000" x="538" y="161" width="579" height="64"/>
+	<SubTexture name="BF_Box_Meltdown_20000" x="1117" y="161" width="546" height="78"/>
+	<SubTexture name="BF_Box_Meltdown_30000" x="0" y="328" width="532" height="161"/>
+	<SubTexture name="BF_Box_Meltdown_40000" x="532" y="328" width="538" height="167"/>
+	<SubTexture name="BF_Box_SighLenced_10000" x="1070" y="328" width="579" height="64"/>
+	<SubTexture name="BF_Box_SighLenced_10001" x="0" y="495" width="546" height="78"/>
+	<SubTexture name="BF_Box_SighLenced_10002" x="546" y="495" width="532" height="161"/>
+	<SubTexture name="BF_Box_SighLenced_10003" x="1078" y="495" width="538" height="167"/>
+</TextureAtlas>

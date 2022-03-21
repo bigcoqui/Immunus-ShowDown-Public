@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Start_screen_Immunus_Showdown_Penter.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Penter0000" x="0" y="0" width="431" height="521" frameX="0" frameY="-5" frameWidth="435" frameHeight="526"/>
+	<SubTexture name="Penter0001" x="0" y="0" width="431" height="521" frameX="0" frameY="-5" frameWidth="435" frameHeight="526"/>
+	<SubTexture name="Penter0002" x="431" y="0" width="430" height="526" frameX="-5" frameY="0" frameWidth="435" frameHeight="526"/>
+	<SubTexture name="Penter0003" x="431" y="0" width="430" height="526" frameX="-5" frameY="0" frameWidth="435" frameHeight="526"/>
+	<SubTexture name="Penter0004" x="861" y="0" width="416" height="522" frameX="-11" frameY="-4" frameWidth="435" frameHeight="526"/>
+	<SubTexture name="Penter0005" x="861" y="0" width="416" height="522" frameX="-11" frameY="-4" frameWidth="435" frameHeight="526"/>
+	<SubTexture name="Penter0006" x="1277" y="0" width="395" height="519" frameX="-16" frameY="-7" frameWidth="435" frameHeight="526"/>
+	<SubTexture name="Penter0007" x="1277" y="0" width="395" height="519" frameX="-16" frameY="-7" frameWidth="435" frameHeight="526"/>
+	<SubTexture name="Penter0008" x="0" y="526" width="386" height="519" frameX="-20" frameY="-7" frameWidth="435" frameHeight="526"/>
+	<SubTexture name="Penter0009" x="0" y="526" width="386" height="519" frameX="-20" frameY="-7" frameWidth="435" frameHeight="526"/>
+	<SubTexture name="Penter0010" x="386" y="526" width="381" height="518" frameX="-22" frameY="-7" frameWidth="435" frameHeight="526"/>
+	<SubTexture name="Penter0011" x="386" y="526" width="381" height="518" frameX="-22" frameY="-7" frameWidth="435" frameHeight="526"/>
+	<SubTexture name="Penter0012" x="767" y="526" width="377" height="518" frameX="-24" frameY="-7" frameWidth="435" frameHeight="526"/>
+	<SubTexture name="Penter0013" x="767" y="526" width="377" height="518" frameX="-24" frameY="-7" frameWidth="435" frameHeight="526"/>
+	<SubTexture name="Penter0014" x="1144" y="526" width="376" height="518" frameX="-24" frameY="-7" frameWidth="435" frameHeight="526"/>
+</TextureAtlas>

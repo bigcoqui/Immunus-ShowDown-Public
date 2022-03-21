@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Credits_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CreditSelect_Left1 instance 10000" x="0" y="0" width="95" height="187"/>
+	<SubTexture name="CreditSelect_Left2 instance 10000" x="95" y="0" width="74" height="151"/>
+	<SubTexture name="CreditSelect_Right1 instance 10000" x="169" y="0" width="95" height="187"/>
+	<SubTexture name="CreditSelect_Right2 instance 10000" x="264" y="0" width="74" height="151"/>
+	<SubTexture name="Selection_Box instance 10000" x="338" y="0" width="164" height="155"/>
+	<SubTexture name="Selection_Box instance 10001" x="338" y="0" width="164" height="155"/>
+	<SubTexture name="Selection_Box instance 10002" x="502" y="0" width="164" height="155"/>
+	<SubTexture name="Selection_Box instance 10003" x="502" y="0" width="164" height="155"/>
+	<SubTexture name="Selection_Box instance 10004" x="666" y="0" width="164" height="154" frameX="0" frameY="-1" frameWidth="164" frameHeight="155"/>
+	<SubTexture name="Selection_Box instance 10005" x="666" y="0" width="164" height="154" frameX="0" frameY="-1" frameWidth="164" frameHeight="155"/>
+	<SubTexture name="Selection_Box instance 10006" x="830" y="0" width="162" height="153" frameX="-1" frameY="-1" frameWidth="164" frameHeight="155"/>
+	<SubTexture name="Selection_Box instance 10007" x="830" y="0" width="162" height="153" frameX="-1" frameY="-1" frameWidth="164" frameHeight="155"/>
+	<SubTexture name="Selection_Box instance 10008" x="0" y="187" width="162" height="153" frameX="-1" frameY="-1" frameWidth="164" frameHeight="155"/>
+	<SubTexture name="Selection_Box instance 10009" x="0" y="187" width="162" height="153" frameX="-1" frameY="-1" frameWidth="164" frameHeight="155"/>
+	<SubTexture name="Selection_Box instance 10010" x="162" y="187" width="162" height="152" frameX="-1" frameY="-2" frameWidth="164" frameHeight="155"/>
+	<SubTexture name="Selection_Box instance 10011" x="162" y="187" width="162" height="152" frameX="-1" frameY="-2" frameWidth="164" frameHeight="155"/>
+	<SubTexture name="Selection_Box instance 10012" x="324" y="187" width="162" height="153" frameX="-1" frameY="-1" frameWidth="164" frameHeight="155"/>
+	<SubTexture name="Selection_Box instance 10013" x="324" y="187" width="162" height="153" frameX="-1" frameY="-1" frameWidth="164" frameHeight="155"/>
+	<SubTexture name="Selection_Box instance 10014" x="486" y="187" width="163" height="153" frameX="0" frameY="-1" frameWidth="164" frameHeight="155"/>
+	<SubTexture name="Selection_Box instance 10015" x="486" y="187" width="163" height="153" frameX="0" frameY="-1" frameWidth="164" frameHeight="155"/>
+	<SubTexture name="Selection_Box instance 10016" x="649" y="187" width="164" height="154" frameX="0" frameY="-1" frameWidth="164" frameHeight="155"/>
+	<SubTexture name="Selection_Box instance 10017" x="649" y="187" width="164" height="154" frameX="0" frameY="-1" frameWidth="164" frameHeight="155"/>
+	<SubTexture name="Selection_Box instance 10018" x="813" y="187" width="164" height="154" frameX="0" frameY="-1" frameWidth="164" frameHeight="155"/>
+	<SubTexture name="Selection_Box instance 10019" x="813" y="187" width="164" height="154" frameX="0" frameY="-1" frameWidth="164" frameHeight="155"/>
+	<SubTexture name="Selection_Box instance 10020" x="338" y="0" width="164" height="155"/>
+</TextureAtlas>

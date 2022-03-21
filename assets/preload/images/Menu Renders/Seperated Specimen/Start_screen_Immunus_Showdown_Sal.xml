@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Start_screen_Immunus_Showdown_Sal.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sal0000" x="0" y="0" width="547" height="524" frameX="0" frameY="-3" frameWidth="547" frameHeight="533"/>
+	<SubTexture name="Sal0001" x="0" y="0" width="547" height="524" frameX="0" frameY="-3" frameWidth="547" frameHeight="533"/>
+	<SubTexture name="Sal0002" x="547" y="0" width="542" height="526" frameX="-4" frameY="-7" frameWidth="547" frameHeight="533"/>
+	<SubTexture name="Sal0003" x="547" y="0" width="542" height="526" frameX="-4" frameY="-7" frameWidth="547" frameHeight="533"/>
+	<SubTexture name="Sal0004" x="1089" y="0" width="540" height="519" frameX="-5" frameY="-8" frameWidth="547" frameHeight="533"/>
+	<SubTexture name="Sal0005" x="1089" y="0" width="540" height="519" frameX="-5" frameY="-8" frameWidth="547" frameHeight="533"/>
+	<SubTexture name="Sal0006" x="0" y="526" width="538" height="523" frameX="-6" frameY="-4" frameWidth="547" frameHeight="533"/>
+	<SubTexture name="Sal0007" x="0" y="526" width="538" height="523" frameX="-6" frameY="-4" frameWidth="547" frameHeight="533"/>
+	<SubTexture name="Sal0008" x="538" y="526" width="536" height="525" frameX="-7" frameY="-2" frameWidth="547" frameHeight="533"/>
+	<SubTexture name="Sal0009" x="538" y="526" width="536" height="525" frameX="-7" frameY="-2" frameWidth="547" frameHeight="533"/>
+	<SubTexture name="Sal0010" x="1074" y="526" width="535" height="526" frameX="-8" frameY="0" frameWidth="547" frameHeight="533"/>
+	<SubTexture name="Sal0011" x="1074" y="526" width="535" height="526" frameX="-8" frameY="0" frameWidth="547" frameHeight="533"/>
+	<SubTexture name="Sal0012" x="0" y="1052" width="534" height="526" frameX="-8" frameY="0" frameWidth="547" frameHeight="533"/>
+	<SubTexture name="Sal0013" x="0" y="1052" width="534" height="526" frameX="-8" frameY="0" frameWidth="547" frameHeight="533"/>
+	<SubTexture name="Sal0014" x="534" y="1052" width="534" height="526" frameX="-8" frameY="0" frameWidth="547" frameHeight="533"/>
+</TextureAtlas>

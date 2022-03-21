@@ -1,0 +1,49 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"sighlenced",
+			"samey",
+			[
+				69,
+				202,
+				218
+			]
+		],
+		[
+			"alerted",
+			"samey2",
+			[
+				69,
+				202,
+				218
+			]
+		],
+		[
+			"meltdown",
+			"samey3",
+			[
+				69,
+				202,
+				218
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

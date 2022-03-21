@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rip_Ship.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Shading ship0000" x="0" y="0" width="294" height="184"/>
+	<SubTexture name="Shading ship0001" x="0" y="0" width="294" height="184"/>
+	<SubTexture name="Shading ship0002" x="294" y="0" width="294" height="184"/>
+	<SubTexture name="Shading ship0003" x="294" y="0" width="294" height="184"/>
+	<SubTexture name="Shading ship0004" x="588" y="0" width="294" height="184"/>
+	<SubTexture name="Shading ship0005" x="588" y="0" width="294" height="184"/>
+	<SubTexture name="Shading ship0006" x="0" y="184" width="294" height="184"/>
+	<SubTexture name="Shading ship0007" x="0" y="184" width="294" height="184"/>
+</TextureAtlas>

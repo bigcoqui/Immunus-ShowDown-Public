@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "AD_Remastered_AltIdle"
+		},
+		{
+			"offsets": [
+				59,
+				76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "AD_Remastered_AltLeft"
+		},
+		{
+			"offsets": [
+				-140,
+				64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "AD_Remastered_AltRight"
+		},
+		{
+			"offsets": [
+				190,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "AD_Remastered_AltUp"
+		},
+		{
+			"offsets": [
+				66,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "AD_Remastered_AltDown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Samey_Alerted_Alts_Shading",
+	"position": [
+		-70,
+		130
+	],
+	"healthicon": "icon-samey2",
+	"flip_x": false,
+	"healthbar_colors": [
+		69,
+		202,
+		218
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Start_screen_Immunus_Showdown_Lurks.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lurks0000" x="0" y="0" width="314" height="391" frameX="-1" frameY="-8" frameWidth="317" frameHeight="403"/>
+	<SubTexture name="Lurks0001" x="0" y="0" width="314" height="391" frameX="-1" frameY="-8" frameWidth="317" frameHeight="403"/>
+	<SubTexture name="Lurks0002" x="314" y="0" width="317" height="399" frameX="0" frameY="-4" frameWidth="317" frameHeight="403"/>
+	<SubTexture name="Lurks0003" x="314" y="0" width="317" height="399" frameX="0" frameY="-4" frameWidth="317" frameHeight="403"/>
+	<SubTexture name="Lurks0004" x="631" y="0" width="312" height="399" frameX="-4" frameY="0" frameWidth="317" frameHeight="403"/>
+	<SubTexture name="Lurks0005" x="631" y="0" width="312" height="399" frameX="-4" frameY="0" frameWidth="317" frameHeight="403"/>
+	<SubTexture name="Lurks0006" x="943" y="0" width="291" height="389" frameX="-11" frameY="-1" frameWidth="317" frameHeight="403"/>
+	<SubTexture name="Lurks0007" x="943" y="0" width="291" height="389" frameX="-11" frameY="-1" frameWidth="317" frameHeight="403"/>
+	<SubTexture name="Lurks0008" x="1234" y="0" width="281" height="384" frameX="-13" frameY="-2" frameWidth="317" frameHeight="403"/>
+	<SubTexture name="Lurks0009" x="1234" y="0" width="281" height="384" frameX="-13" frameY="-2" frameWidth="317" frameHeight="403"/>
+	<SubTexture name="Lurks0010" x="1515" y="0" width="277" height="383" frameX="-15" frameY="-1" frameWidth="317" frameHeight="403"/>
+	<SubTexture name="Lurks0011" x="1515" y="0" width="277" height="383" frameX="-15" frameY="-1" frameWidth="317" frameHeight="403"/>
+	<SubTexture name="Lurks0012" x="0" y="399" width="274" height="382" frameX="-16" frameY="-1" frameWidth="317" frameHeight="403"/>
+	<SubTexture name="Lurks0013" x="0" y="399" width="274" height="382" frameX="-16" frameY="-1" frameWidth="317" frameHeight="403"/>
+	<SubTexture name="Lurks0014" x="0" y="399" width="274" height="382" frameX="-16" frameY="-1" frameWidth="317" frameHeight="403"/>
+</TextureAtlas>

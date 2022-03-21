@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Immunus_Showdown_LogoBumpin.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Logo_ImmunusShowdown instance 10000" x="0" y="0" width="465" height="377"/>
+	<SubTexture name="Logo_ImmunusShowdown instance 10001" x="0" y="0" width="465" height="377"/>
+	<SubTexture name="Logo_ImmunusShowdown instance 10002" x="465" y="0" width="449" height="364" frameX="-8" frameY="-6" frameWidth="465" frameHeight="377"/>
+	<SubTexture name="Logo_ImmunusShowdown instance 10003" x="465" y="0" width="449" height="364" frameX="-8" frameY="-6" frameWidth="465" frameHeight="377"/>
+	<SubTexture name="Logo_ImmunusShowdown instance 10004" x="0" y="377" width="444" height="360" frameX="-10" frameY="-8" frameWidth="465" frameHeight="377"/>
+	<SubTexture name="Logo_ImmunusShowdown instance 10005" x="0" y="377" width="444" height="360" frameX="-10" frameY="-8" frameWidth="465" frameHeight="377"/>
+	<SubTexture name="Logo_ImmunusShowdown instance 10006" x="0" y="377" width="444" height="360" frameX="-10" frameY="-8" frameWidth="465" frameHeight="377"/>
+	<SubTexture name="Logo_ImmunusShowdown instance 10007" x="0" y="377" width="444" height="360" frameX="-10" frameY="-8" frameWidth="465" frameHeight="377"/>
+	<SubTexture name="Logo_ImmunusShowdown instance 10008" x="0" y="377" width="444" height="360" frameX="-10" frameY="-8" frameWidth="465" frameHeight="377"/>
+	<SubTexture name="Logo_ImmunusShowdown instance 10009" x="0" y="377" width="444" height="360" frameX="-10" frameY="-8" frameWidth="465" frameHeight="377"/>
+	<SubTexture name="Logo_ImmunusShowdown instance 10010" x="0" y="377" width="444" height="360" frameX="-10" frameY="-8" frameWidth="465" frameHeight="377"/>
+	<SubTexture name="Logo_ImmunusShowdown instance 10011" x="0" y="377" width="444" height="360" frameX="-10" frameY="-8" frameWidth="465" frameHeight="377"/>
+	<SubTexture name="Logo_ImmunusShowdown instance 10012" x="0" y="377" width="444" height="360" frameX="-10" frameY="-8" frameWidth="465" frameHeight="377"/>
+	<SubTexture name="Logo_ImmunusShowdown instance 10013" x="444" y="377" width="435" height="353" frameX="-15" frameY="-12" frameWidth="465" frameHeight="377"/>
+	<SubTexture name="Logo_ImmunusShowdown instance 10014" x="444" y="377" width="435" height="353" frameX="-15" frameY="-12" frameWidth="465" frameHeight="377"/>
+</TextureAtlas>

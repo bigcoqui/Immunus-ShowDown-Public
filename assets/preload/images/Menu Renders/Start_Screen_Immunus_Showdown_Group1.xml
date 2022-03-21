@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Start_Screen_Immunus_Showdown_Group1.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Group_Of_Immunus1 instance 10000" x="0" y="0" width="704" height="961" frameX="0" frameY="-3" frameWidth="704" frameHeight="964"/>
+	<SubTexture name="Group_Of_Immunus1 instance 10001" x="0" y="0" width="704" height="961" frameX="0" frameY="-3" frameWidth="704" frameHeight="964"/>
+	<SubTexture name="Group_Of_Immunus1 instance 10002" x="704" y="0" width="699" height="961" frameX="-2" frameY="-3" frameWidth="704" frameHeight="964"/>
+	<SubTexture name="Group_Of_Immunus1 instance 10003" x="704" y="0" width="699" height="961" frameX="-2" frameY="-3" frameWidth="704" frameHeight="964"/>
+	<SubTexture name="Group_Of_Immunus1 instance 10004" x="1403" y="0" width="688" height="964" frameX="-3" frameY="0" frameWidth="704" frameHeight="964"/>
+	<SubTexture name="Group_Of_Immunus1 instance 10005" x="1403" y="0" width="688" height="964" frameX="-3" frameY="0" frameWidth="704" frameHeight="964"/>
+	<SubTexture name="Group_Of_Immunus1 instance 10006" x="2091" y="0" width="672" height="964" frameX="-4" frameY="0" frameWidth="704" frameHeight="964"/>
+	<SubTexture name="Group_Of_Immunus1 instance 10007" x="2091" y="0" width="672" height="964" frameX="-4" frameY="0" frameWidth="704" frameHeight="964"/>
+	<SubTexture name="Group_Of_Immunus1 instance 10008" x="2763" y="0" width="666" height="964" frameX="-4" frameY="0" frameWidth="704" frameHeight="964"/>
+	<SubTexture name="Group_Of_Immunus1 instance 10009" x="2763" y="0" width="666" height="964" frameX="-4" frameY="0" frameWidth="704" frameHeight="964"/>
+	<SubTexture name="Group_Of_Immunus1 instance 10010" x="3429" y="0" width="662" height="964" frameX="-4" frameY="0" frameWidth="704" frameHeight="964"/>
+	<SubTexture name="Group_Of_Immunus1 instance 10011" x="3429" y="0" width="662" height="964" frameX="-4" frameY="0" frameWidth="704" frameHeight="964"/>
+	<SubTexture name="Group_Of_Immunus1 instance 10012" x="0" y="964" width="659" height="964" frameX="-4" frameY="0" frameWidth="704" frameHeight="964"/>
+	<SubTexture name="Group_Of_Immunus1 instance 10013" x="659" y="964" width="658" height="964" frameX="-4" frameY="0" frameWidth="704" frameHeight="964"/>
+	<SubTexture name="Group_Of_Immunus1 instance 10014" x="1317" y="964" width="658" height="964" frameX="-4" frameY="0" frameWidth="704" frameHeight="964"/>
+</TextureAtlas>
