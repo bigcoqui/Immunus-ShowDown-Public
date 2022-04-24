@@ -329,7 +329,7 @@ class StoryMenuState extends MusicBeatState
 			//text.screenCenter(X);
 		}
 		
-		var path = Paths.getPreloadPath("images/gfDanceTitle.json");
+		var path = SUtil.getPath() + Paths.getPreloadPath("images/gfDanceTitle.json");
 		var titleJSON = Json.parse(Assets.getText(path));
 		Conductor.changeBPM(103);
 
@@ -413,6 +413,10 @@ class StoryMenuState extends MusicBeatState
 		
 		changeWeek();
 		changeDifficulty();
+		
+		#if android
+		addVirtualPad(FULL, A_B)
+		#end
 	}
 
 	override function closeSubState() {
