@@ -329,8 +329,8 @@ class StoryMenuState extends MusicBeatState
 			//text.screenCenter(X);
 		}
 		
-		var path = SUtil.getPath() + Paths.getPreloadPath("images/gfDanceTitle.json");
-		var titleJSON = Json.parse(Assets.getText(SUtil.getPath() + path));
+		var path = Paths.getPreloadPath("images/gfDanceTitle.json");
+		var titleJSON = Json.parse(Assets.getText(path));
 		Conductor.changeBPM(103);
 
 		for (i in 0...3) {
