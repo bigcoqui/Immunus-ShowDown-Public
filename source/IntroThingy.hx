@@ -99,6 +99,10 @@ class IntroThingy extends MusicBeatState
 			dropdia.color = 0xFFD89494;
 			dropdia.height = dia.height;
 			add(dropdia);
+		
+				#if android
+		addVirtualPad(NONE, A);
+		#end
 
 			super.create();
 	}
