@@ -330,7 +330,7 @@ class StoryMenuState extends MusicBeatState
 		}
 		
 		var path = SUtil.getPath() + Paths.getPreloadPath("images/gfDanceTitle.json");
-		var titleJSON = Json.parse(Assets.getText(path));
+		var titleJSON = Json.parse(Assets.getText(SUtil.getPath() + path));
 		Conductor.changeBPM(103);
 
 		for (i in 0...3) {
@@ -415,7 +415,7 @@ class StoryMenuState extends MusicBeatState
 		changeDifficulty();
 		
 		#if android
-		addVirtualPad(FULL, A_B);
+		addVirtualPad(FULL, A_B)
 		#end
 	}
 
