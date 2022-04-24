@@ -197,6 +197,11 @@ class CreditsImmunus extends MusicBeatState
 
 		bgFade();
 		changeSelection(0);
+		
+				#if android
+		addVirtualPad(LEFT_RIGHT, A_B);
+		#end
+			
 		super.create();
 	}
 
