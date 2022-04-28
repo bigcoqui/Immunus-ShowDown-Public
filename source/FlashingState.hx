@@ -123,6 +123,7 @@ class FlashingState extends MusicBeatState
 			startAndEnd();
 		});
 	}
+}
 
 	function startAndEnd()
 	{
